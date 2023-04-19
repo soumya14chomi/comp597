@@ -12,6 +12,7 @@ Zhang, Y., Galley, M., Gao, J., Gan, Z., Li, X., & Lee, S. (2018). Dialogue-Base
 Cerisara, C., Visani, M., & Laurent, A. (2019). Enhancing Chatbot Dialogue with Personality Traits and Social-Oriented Responses. In Proceedings of the 2019 IEEE/WIC/ACM International Conference on Web Intelligence (WI 2019) (pp. 148-152). IEEE. https://doi.org/10.1109/WI.2019.00029
 Liu, B., Bi, W., Cui, Y., Sun, X., Chen, Z., & Ma, Y. (2018). DialogueGAN: Generating responses via adversarial learning. In Thirty-Second AAAI Conference on Artificial Intelligence.
 Zhao, T., Eskenazi, M., Liu, B., & Zhao, H. (2019). Towards End-to-End Learning for Dialog State Tracking and Management using Deep Reinforcement Learning. In Proceedings of the 20th Annual SIGdial Meeting on Discourse and Dialogue (SIGDIAL 2019) (pp. 10-19). Association for Computational Linguistics. https://doi.org/10.18653/v1/W19-1610
+paper with code - Jiwei Li, Will Monroe, Alan Ritter, Michel Galley, Jianfeng Gao, and Dan Jurafsky. "Deep Reinforcement Learning for Dialogue Generation." Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2016, pp. 1192-1202.
 
 2010-2015:
 Murray, G., & Riccardi, G. (2010). The Importance of Dialogue Act Classification for Effective Spoken Dialogue Management. In Proceedings of the 2010 IEEE Spoken Language Technology Workshop (SLT 2010).
